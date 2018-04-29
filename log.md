@@ -1,13 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: April 29, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on FreeCodeCamp 'twitch api app' abandoned a month ago.
+  Learned:
+    1. jquery- a. append().
+    2. css - a. padding,
+             b. display: block;,
+             c. background vs background color
+    3. Git - a. git diff --staged
+             b. github fork
+             c. commit -m
+             d. remote add origin
+             e. remote -v
+    4. javscript- a. forEach()
+                  b. filter()
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I struggled with css but have grabed a few properties now. I am mesmerized with the power of append(being able to write inline HTML) but not sure about it, obviously there is another way of doing it. I use to jumps around tutorials but mostly forget the concepts because i don't implement them, now i know, i need to write my own code everyday. sharing on social media is not that embarassing. i need to forgive myself, i need to accept i don't need to be genius.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Task Remaining:** Display "offline", "Online" to the right
+
+**Link to work:** [Twtich API] (https://codepen.io/oxide94/pen/xWOVPz?editors=0010)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
