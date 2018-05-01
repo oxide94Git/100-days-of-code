@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 29, 2018 (Example 1)
+### Day 1: April 29, 2018 Sunday(Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Worked on FreeCodeCamp 'twitch api app' abandoned a month ago.
@@ -23,22 +23,29 @@
 
 **Link to work:** [Twtich API] (https://codepen.io/oxide94/pen/xWOVPz?editors=0010)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: April 30, 2018 Monday (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: played around with bootstrap and css values but could not make selectors stick to the left.
+##Learned:
+    1. css- a. float: right;
+            b. clear: right;
+            c. cursor: pointer;
+            d. overflow: hidden;
+            e. max-width: 700px
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: waited for electricity whole night but it came after 14 hrs, it was off from 12:30pm to 2:30 pm 1'st may. i'am updating this on May 1, 2018 10:07 pm. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Twitch API](https://codepen.io/oxide94/pen/xWOVPz?editors=0010)
 
 
-### Day 1: June 27, Monday
+### Day 2: May 1, 2018 Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added flter and selectors functionality to 'twtich Api app'.
+##Learned:
+  1. jquery- a. empty();
+             b. on(event, callback);//calling pre-defined get callled imediately, call other functions inside callback.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** yes this is on the same day. people at #100DaysOfCode were really helpfull made some new connections on twitter, finally fighting my fear, socialising. i'm better implementing functionality than designs.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Twitch API](https://codepen.io/oxide94/pen/xWOVPz?editors=0010)
